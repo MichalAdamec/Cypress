@@ -1,0 +1,9 @@
+1.clone repository to local directory
+
+2.open in command line as working directory
+
+3.type command: npx cypress open
+
+4.in Cypress choose the integration test AllFieldsFilledCorrectly
+
+5.run the test
